@@ -1,191 +1,237 @@
-<h1 align="center">Hi 👋, I'm Sakshi Patil</h1>
+<div align="center">
 
-<h3 align="center">
-Data Engineer | Data Science Enthusiast | GenAI Learner
-</h3>
+# Hi, I'm Sakshi Patil 👋
 
-<p align="center">
-Turning raw data into meaningful insights using Python, Spark, SQL, Cloud & AI.
+### Data Engineer • Data Analyst • GenAI Enthusiast
+
+Transforming raw data into scalable pipelines, insightful dashboards, and AI-powered solutions.
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+
 </p>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Nhb3pnM2hhbHBycDN3djRnY2Fqd2FqMnRwa2hxd2dqOW5mYTBhZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-
-## 👩‍💻 About Me
+# 🚀 About Me
 
 🎓 B.E. Information Technology Graduate (2025)
 
-📚 Completed **PG-DAC (CDAC ACTS, Pune)**
+🎓 PG-DAC Graduate — CDAC ACTS, Pune
 
-💡 Passionate about **Data Engineering, Data Science, Machine Learning and Generative AI**
+💡 Passionate about designing modern data platforms, building scalable ETL pipelines, performing advanced analytics, and integrating AI into real-world applications.
 
-🌱 Currently exploring
+I enjoy working with Big Data technologies, cloud platforms, and machine learning to convert raw data into meaningful business insights.
 
-- Apache Spark
-- Databricks
-- Hadoop Ecosystem
-- AWS Cloud
-- Azure Cloud
+Currently focusing on:
+
+- Data Engineering
+- Databricks Lakehouse
+- Apache Spark & PySpark
+- Cloud Data Platforms
+- Machine Learning
 - Generative AI
-- Data Pipelines
-
-🎯 Looking for opportunities as
-
-- Data Engineer
-- Data Analyst
-- Data Scientist
-- AI / ML Engineer
-
-📫 Reach me at
-
-**sakshipatil.tech@gmail.com**
+- End-to-End Data Pipelines
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Programming
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,linux,bash" />
-</p>
+- Python
+- SQL
+- Java
 
----
-
-### 📊 Data Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
+### Data Engineering
 
 - Apache Spark
 - PySpark
 - Databricks
 - Hadoop
-- SQL
+- Delta Lake
 - ETL Pipelines
+- Medallion Architecture
 
----
+### Databases
 
-### 🤖 Machine Learning & AI
+- MySQL
+- SQL Server
 
-- Machine Learning
-- Predictive Modeling
-- Scikit-Learn
+### Cloud
+
+- Microsoft Azure
+- Amazon Web Services (AWS)
+
+### Machine Learning
+
 - Pandas
 - NumPy
+- Scikit-Learn
+- Predictive Modeling
+
+### AI
+
 - Generative AI
 - Prompt Engineering
-- Jupyter Notebook
+- NLP Fundamentals
 
----
+### Tools
 
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-- AWS
-- Microsoft Azure
-
----
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-- Databricks
-- Jupyter Notebook
-- Power BI
 - Git
 - GitHub
+- Linux
+- VS Code
+- Jupyter Notebook
+- Power BI
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-📌 Movie Recommendation System
+## 🚖 GoodCabs — End-to-End Medallion Architecture Ride Analytics
 
-- KNN
-- Streamlit
-- Python
-- BeautifulSoup
+✔ Built a complete Lakehouse pipeline using Bronze → Silver → Gold architecture
 
----
+✔ Developed scalable ETL workflows using Databricks
 
-📌 Stress Detection using Machine Learning
+✔ Processed ride analytics datasets with PySpark
 
-- Python
-- Machine Learning
-- Bernoulli Naive Bayes
+✔ Performed data quality validation and transformations
 
----
+✔ Created business-ready analytical datasets
 
-📌 Grocery Store Website
+**Tech Stack**
 
-- Flask
-- MySQL
-- HTML
-- CSS
-- JavaScript
+`Databricks` • `PySpark` • `Delta Lake` • `AWS S3` • `SQL`
 
 ---
 
-📌 Data Engineering Projects
+## 💼 RecruitVerse
 
-- ETL Pipelines
-- Apache Spark
-- Databricks
-- AWS S3
-- Delta Tables
+AI-powered recruitment platform that streamlines candidate screening and hiring.
 
-*(More projects coming soon.)*
+### Features
 
----
+- Resume Parsing
+- Candidate Ranking
+- Job Matching
+- Intelligent Search
+- Dashboard Analytics
 
-## 🌐 Connect with Me
+**Tech Stack**
 
-<p align="left">
-<a href="https://linkedin.com/in/sakshi-patil-7a13b5294">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/SakshiPatil29">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://leetcode.com/sakshipatil_29">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a>
-</p>
+Python • Machine Learning • SQL • Flask
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Ecommerce Sales Analytics
+
+End-to-end sales analytics project focused on discovering customer behavior and business KPIs.
+
+### Highlights
+
+- Data Cleaning
+- Sales Trend Analysis
+- Customer Segmentation
+- KPI Dashboard
+- Business Insights
+
+**Tech Stack**
+
+Python • SQL • Power BI • Pandas
+
+---
+
+## 🎬 Movie Recommendation System
+
+Recommendation engine using KNN and cosine similarity.
+
+- Movie similarity search
+- Poster fetching
+- Streamlit deployment
+
+**Tech Stack**
+
+Python • KNN • NumPy • Streamlit • BeautifulSoup
+
+---
+
+## 🧠 Stress Detection using Machine Learning
+
+Machine learning model for identifying stress levels from textual data.
+
+**Tech Stack**
+
+Python • Scikit-Learn • Bernoulli Naive Bayes
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SakshiPatil29&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SakshiPatil29&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiPatil29&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiPatil29&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiPatil29&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiPatil29&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 💬 Quote
+# 🎯 Current Goals
 
-> "Data is the new oil, but only when refined into meaningful insights."
+✅ Master Databricks & Lakehouse Architecture
 
-⭐ Thanks for visiting my profile!
+✅ Build Production-Ready Data Engineering Projects
+
+✅ Learn Advanced Spark Optimization
+
+✅ Explore LLMs & Retrieval-Augmented Generation (RAG)
+
+✅ Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
+
+📧 **sakshipatil.tech@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/sakshi-patil-7a13b5294
+
+💻 GitHub
+
+https://github.com/SakshiPatil29
+
+🧩 LeetCode
+
+https://leetcode.com/sakshipatil_29
+
+---
+
+> **"Great data engineering isn't about moving data—it's about making data reliable, scalable, and useful."**
